@@ -1,0 +1,16 @@
+{
+  "name": "koa-static_aning",
+  "version": "1.1.1",
+  "description": "Create a static server for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "static",
+    "server"
+  ],
+  "author": "https://github.com/Blanceluo",
+  "license": "ISC"
+}
