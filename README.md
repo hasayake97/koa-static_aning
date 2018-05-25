@@ -35,7 +35,7 @@ app.listen({
 ### warring
 Test only on Win10 platform
 
-只在Win10平台上测试过!!!
+只在Win10平台上测试过!!!!
 
 ### link
 [Aning's Blog](https://aning.xyz/)
